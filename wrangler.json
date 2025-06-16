@@ -3,6 +3,6 @@
   "account_id": "9e0104354813b12390785e35d270de16",
   "workers_dev": true,
   "compatibility_date": "2025-06-16",
-  "main": "src/index.ts"
+  "main": "bot.py"
 }
 
