@@ -1,6 +1,4 @@
 {
   "name": "cacabot",
-  "assets": {
-    "directory": "./dist"
-  }
 }
+
