@@ -3,6 +3,7 @@
   "account_id": "9e0104354813b12390785e35d270de16",
   "workers_dev": true,
   "compatibility_date": "2025-06-16",
-  "main": "bot.py"
+  "main": "bot.py",
+  "compatibility_flags": ["python_workers"]
 }
 
